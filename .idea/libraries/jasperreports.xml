@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="jasperreports">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-gvt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/poi-3.7-20101029.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/SteeringDeviationTheme.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/png-encoder-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/iText-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jdt-compiler-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-bridge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/bcel-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/spring-beans-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jackson-mapper-lgpl-1.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jasperreports-chart-themes-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/castor-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jfreechart-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/xml-apis-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/xbean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jackson-core-lgpl-1.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/commons-javaflow-20060411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/poi-ooxml-3.7-20101029.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/saaj-api-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/poi-ooxml-schemas-3.7-20101029.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-script.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/groovy-all-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/xalan-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/barcode4j-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-awt-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-svg-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/mondrian-3.1.1.12687.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-svggen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jxl-2.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/antlr-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/hsqldb-1.8.0-10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/velocity-1.7-dep.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/serializer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jcommon-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/commons-digester-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/batik-anim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/barbecue-1.5-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jasperreports-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/ant-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/spring-core-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/bsh-2.0b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jasperreports/jpa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

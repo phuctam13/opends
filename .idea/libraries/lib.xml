@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/mysql-connector-java-5.1.18-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/KAPcomConnector.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/j2ee-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/simphynity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/Jama-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/com.springsource.org.jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/contre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/oculus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/NetMessageProtocol.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/com.springsource.org.jdom-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/ffjoystick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/CarOntology.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/eyetracker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/tvpt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jaxdomBundle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jaxen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/freemarker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/java_websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jfx-1.dev.47488-09-06_144536-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

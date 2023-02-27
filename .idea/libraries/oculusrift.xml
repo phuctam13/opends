@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="oculusrift">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/oculusrift/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/oculusrift/jovr-0.3.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

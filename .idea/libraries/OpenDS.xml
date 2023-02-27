@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OpenDS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OpenDS/OpenDS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OpenDS/Analyzer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

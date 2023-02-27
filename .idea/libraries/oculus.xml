@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="oculus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OpenDS/opt/oculus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

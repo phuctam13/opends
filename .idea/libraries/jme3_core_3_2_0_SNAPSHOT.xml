@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jme3-core-3.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OpenDS/lib/jme3.1beta3modified/jme3-core-3.2.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
